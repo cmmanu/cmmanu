@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there, I'm Manu 👋
 
-<!--
-**cmmanu/cmmanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm Manuel Böhm, a DevOps Engineer and Software Developer with extensive experience in cloud infrastructure, backend development, and automation. 
+I am passionate about designing scalable and efficient software systems. With a strong background in cloud technologies and automation, I aim to optimize workflows and enhance system reliability.
 
-Here are some ideas to get you started:
+## Strengths
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Cloud Infrastructure**: AWS, Azure
+- **CI/CD Pipelines**: Zuul, GitHub Actions
+- **Infrastructure as Code**: Pulumi
+- **Software Development**: Java, Python
+- **Monitoring & Incident Handling**: Prometheus, Grafana
+- **Technical Leadership**
+
+## What I Like
+
+- Automating complex tasks
+- Building scalable backend systems
+- Exploring new DevOps technologies
+- Improving software quality and security
